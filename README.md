@@ -4,3 +4,5 @@ Just another repository
 Just another line of text
 
 A new branch
+
+Changes to the new branch
